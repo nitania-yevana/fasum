@@ -1,0 +1,5 @@
+{
+  "database": {
+    "rules": "fasum_database_rules.rules.json"
+  }
+}
